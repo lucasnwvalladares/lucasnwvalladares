@@ -6,11 +6,11 @@
 
 <br>
 
-<div style="display: inline_block;" align="center">
+<!-- <div style="display: inline_block;" align="center">
   <a href="https://github.com/lucasnwvalladares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnwvalladares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnwvalladares&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+</div> -->
 
 <br>
 
@@ -70,21 +70,26 @@
     <tr>
       <td>React Native</td>
       <td><img align="center" alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></td>
-      <td>Interest</td>
+      <td>Learning</td>
     </tr>
     <tr>
       <td>NodeJS</td>
       <td><img align="center" alt="Node.js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></td>
-      <td>Interest</td>
-    </tr>
-    <tr>
-      <td>MongoDB</td>
-      <td><img align="center" alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></td>
-      <td>Interest</td>
+      <td>Learning</td>
     </tr>
     <tr>
       <td>TailwindCSS</td>
       <td><img align="center" alt="Tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></td>
+      <td>Learning</td>
+    </tr>
+    <tr>
+      <td>Express</td>
+      <td><img align="center" alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></td>
+      <td>Learning</td>
+    </tr>
+    <tr>
+      <td>MongoDB</td>
+      <td><img align="center" alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></td>
       <td>Interest</td>
     </tr>
   </table>
