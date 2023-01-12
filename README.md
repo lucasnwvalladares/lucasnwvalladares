@@ -38,6 +38,21 @@
       <td>Junior</td>
     </tr>
     <tr>
+      <td>Bootstrap</td>
+      <td><img align="center" alt="Bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></td>
+      <td>Junior</td>
+    </tr>
+    <tr>
+      <td>JQuery</td>
+      <td><img align="center" alt="JQuery" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg"></td>
+      <td>Junior</td>
+    </tr>
+    <tr>
+      <td>Angular</td>
+      <td><img align="center" alt="Angular" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"></td>
+      <td>Entry</td>
+    </tr>
+    <tr>
       <td>React</td>
       <td><img align="center" alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></td>
       <td>Entry</td>
