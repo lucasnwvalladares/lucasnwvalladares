@@ -25,118 +25,37 @@
     <tr>
       <td>JavaScript</td>
       <td><img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-      <td>Junior</td>
-    </tr>
-    <tr>
-      <td>HTML5</td>
-      <td><img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-      <td>Junior</td>
-    </tr>
-    <tr>
-      <td>CSS3</td>
-      <td><img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-      <td>Junior</td>
-    </tr>
-    <tr>
-      <td>Bootstrap</td>
-      <td><img align="center" alt="Bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></td>
-      <td>Junior</td>
-    </tr>
-    <tr>
-      <td>JQuery</td>
-      <td><img align="center" alt="JQuery" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg"></td>
-      <td>Junior</td>
-    </tr>
-    <tr>
-      <td>Angular</td>
-      <td><img align="center" alt="Angular" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"></td>
-      <td>Entry</td>
-    </tr>
-    <tr>
-      <td>React</td>
-      <td><img align="center" alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></td>
-      <td>Entry</td>
-    </tr>
-    <tr>
-      <td>NextJS</td>
-      <td><img align="center" alt="NextJS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></td>
-      <td>Entry</td>
+      <td>Expert</td>
     </tr>
     <tr>
       <td>TypeScript</td>
       <td><img align="center" alt="TypeScript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></td>
-      <td>Entry</td>
-    </tr>
-    <tr>
-      <td>Vue.js</td>
-      <td><img align="center" alt="Vue.js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></td>
-      <td>Entry</td>
-    </tr>
-    <tr>
-      <td>NuxtJS</td>
-      <td><img align="center" alt="NuxtJS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"></td>
-      <td>Entry</td>
-    </tr>
-    <tr>
-      <td>Vuetify</td>
-      <td><img align="Vuetify" alt="NuxtJS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg"></td>
-      <td>Entry</td>
-    </tr>
-    <tr>
-      <td>React Native</td>
-      <td><img align="center" alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></td>
-      <td>Learning</td>
+      <td>High</td>
     </tr>
     <tr>
       <td>NodeJS</td>
       <td><img align="center" alt="Node.js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></td>
-      <td>Learning</td>
+      <td>Expert</td>
     </tr>
     <tr>
-      <td>TailwindCSS</td>
-      <td><img align="center" alt="Tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></td>
-      <td>Learning</td>
+      <td>Vue.js</td>
+      <td><img align="center" alt="Vue.js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></td>
+      <td>Expert</td>
     </tr>
     <tr>
-      <td>Express</td>
-      <td><img align="center" alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></td>
-      <td>Learning</td>
+      <td>React</td>
+      <td><img align="center" alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></td>
+      <td>Medium</td>
     </tr>
     <tr>
       <td>MongoDB</td>
       <td><img align="center" alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></td>
-      <td>Interest</td>
-    </tr>
-  </table>
-</div>
-  
-<div style="display: inline_block" align="center">
-  <h2>Tools 🛠</h2>
-  <table>
-    <tr>
-      <th>Technology</th>
-      <th>DevIcon</th>
-      <th>Status</th>
+      <td>High</td>
     </tr>
     <tr>
-      <td>GitHub</td>
-      <td><img align="center" alt="GitHub" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></td>
-      <td>Using</td>
-    </tr>
-    <tr>
-      <td>VSCode</td>
-      <td><img align="center" alt="VSCode" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></td>
-      <td>Using</td>
-    </tr>
-    <tr>
-      <td>NPM</td>
-      <td><img align="center" alt="NPM" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></td>
-      <td>Using</td>
-    </tr>
-    <tr>
-      <td>Docker</td>
-      <td><img align="center" alt="Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></td>
-      <td>Interest</td>
+      <td>MySQL</td>
+      <td><img align="center" alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></td>
+      <td>High</td>
     </tr>
   </table>
 </div>
