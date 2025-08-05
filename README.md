@@ -1,8 +1,8 @@
 ## Hi! I'm Lucas Valladares. Welcome to my profile! 📌
 
-<div style="display: inline_block;" align="center">
+<!-- <div style="display: inline_block;" align="center">
   <h3>➡I'm currently open to work!⬅</h3>
-</div>
+</div> -->
 
 <br>
 
